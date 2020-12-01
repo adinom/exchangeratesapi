@@ -13,7 +13,7 @@ $resp = curl_exec($cu);
 
 
 $decoded = json_decode($resp, true);
-print_r($decoded);
+//print_r($decoded);
  
 
 curl_close($cu);
