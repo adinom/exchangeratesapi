@@ -12,3 +12,6 @@ To post and recieve JSON data Using php I used PHP cURL:
 -Setup data in PHP array and encode into a JSON string using json_encode().
 
 -Finally, the curl_exec() function is used to execute the POST request.
+Exchangerates.php
+# to use this code 
+-To run this php script on a local machine turn on Apache server so you can have an enabled php server on your computer and open your web browser and type localhost/Exchangerates.php.
